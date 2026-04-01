@@ -2,15 +2,14 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Mithun P Veettil
+  given: Mithun
+  family: Padinhare Veettil
+  alternate: ''  
+  pronunciation: '' 
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+ 
 status:
   icon: "☕️"
 role: Senior AI Research Scientist
