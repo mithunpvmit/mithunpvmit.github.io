@@ -12,7 +12,7 @@ postnominals:
  
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: PhD Candidate
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -20,8 +20,8 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: State University of New York at Binghamton
+    url: http://www2.math.binghamton.edu/p/people/grads/mithunp/start
 
 links:
   - icon: at-symbol
