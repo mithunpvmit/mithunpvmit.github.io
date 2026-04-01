@@ -5,7 +5,7 @@
 
 main:
   - name: CV
-     url: /resume.pdf
+     url: resume/
     weight: 10
   - name: Publications
     url: /#papers
