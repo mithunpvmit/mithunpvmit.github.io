@@ -12,7 +12,7 @@ postnominals:
 status:
   icon:
 role: PhD Candidate
-bio: Hello
+bio: My research interests are in the intersection of Number Theory and Algebraic Geometry. Right now, I am developing a new theory of Locally Integer Polynomials, which are integer-valued functions that locally look like polynomials with integer coefficients.
 
 affiliations:
   - name: State University of New York at Binghamton
