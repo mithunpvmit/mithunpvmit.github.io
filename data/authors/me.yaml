@@ -7,7 +7,6 @@ name:
   family: Padinhare Veettil
   alternate: ''  
   pronunciation: '' 
-  pronouns: he/him
 postnominals:
  
 status:
@@ -35,10 +34,8 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Algebraic Number Theory
+  - Algebraic Geometry
 
 education:
   - degree: BS-MS in Mathematics
