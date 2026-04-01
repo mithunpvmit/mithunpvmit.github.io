@@ -11,13 +11,10 @@ name:
 postnominals:
  
 status:
-  icon: "☕️"
+  icon:
 role: PhD Candidate
-bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+bio: My research interests are in Number Theory and Algebraic Geometry. Right now, I am trying to develop a theory on Locally Integer Polynomials,
+which, broadly speaking, are integer-valued functions that locally look like polynomials.
 
 affiliations:
   - name: State University of New York at Binghamton
