@@ -52,10 +52,10 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: BS-MS Minor degree in Physics
+    institution: IISER Thiruvananthapuram
+    start: 2015 August
+    end: 2020 June
 
 skills:
   - name: Technical Skills
