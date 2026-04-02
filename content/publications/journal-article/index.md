@@ -14,8 +14,7 @@ publication_types: ["article-journal"]
 publication: "Mathematics Student, Indian Mathematical Society"
 publication_short: ""
 
-abstract: In this paper, we discuss two well-known proofs of the
-infinitude of primes in N and give a new proof using elementary commutative algebra.
+abstract: In this paper, we discuss two well-known proofs of the infinitude of primes in N and give a new proof using elementary commutative algebra.
 
 
 
